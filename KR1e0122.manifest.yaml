@@ -1,0 +1,239 @@
+canonical_identifier: bkk:krp/KR1e0122/v1
+canonical_location: https://kanripo.org/bkk/KR1e0122/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 春秋繁露
+  identifiers:
+    krp: KR1e0122
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR1e
+    tls-internal:
+    - swl
+    - tr-en
+    - tr-zh
+  source:
+    repository: tls-texts
+    path: data/tls/KR1e0122.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR1e0122_001.yaml, hash: 'sha256:b4358640116141ae194c2466bc2d832717207f07510beb2f7cd0fa8d46605e66'}
+  - {seq: 2, filename: KR1e0122_002.yaml, hash: 'sha256:cd68518b5bc2081ecb7ad08667c7c009f5e98f074da43ac3c4e53f71332b1694'}
+  - {seq: 3, filename: KR1e0122_003.yaml, hash: 'sha256:2cb2f36dcc8c5a98d0824fe6503a6c27a9b6b7830f671e5080d2d8e81fa02f78'}
+  - {seq: 4, filename: KR1e0122_004.yaml, hash: 'sha256:a9074e58804ed47cce4e357f9e8f9fe93d1c98d1bdcb2b44dc498e6c5a2b9005'}
+  - {seq: 5, filename: KR1e0122_005.yaml, hash: 'sha256:9c367ccadfcf0e61f55b2cfe9e29101e59b37280668913273ceb17f6e15545af'}
+  - {seq: 6, filename: KR1e0122_006.yaml, hash: 'sha256:cbd08b5c724d975a72cb347369ca33a71948d498f11d101be166c741f7615871'}
+  - {seq: 7, filename: KR1e0122_007.yaml, hash: 'sha256:c68991f620a73137f8f98778770af8d1433f65ea1c76d6b7d8439f9b83a469c4'}
+  - {seq: 8, filename: KR1e0122_008.yaml, hash: 'sha256:52c5751fd09bd4f7c9312907c186273ba46be8f0200f9bf4b29e2a827fcbc32e'}
+  - {seq: 9, filename: KR1e0122_009.yaml, hash: 'sha256:041a47bb913bbd30f5597ebf64a7e01bac49f8a8954dbc985b3db3c6ca8bdd48'}
+  - {seq: 10, filename: KR1e0122_010.yaml, hash: 'sha256:f736e751e88ed4cd1cf588736b715ffca2f09c1b4a9f6d7d82491144d50fc094'}
+  - {seq: 11, filename: KR1e0122_011.yaml, hash: 'sha256:a643b7d635f479f983a29456544d1755ba75fc6943034e364481747dc2aeb8c7'}
+  - {seq: 12, filename: KR1e0122_012.yaml, hash: 'sha256:cbe75e0ce069b7879e4a65bdda5340715eb9a846f5b2abbf295cc63e5d8b12ce'}
+  - {seq: 13, filename: KR1e0122_013.yaml, hash: 'sha256:968556101720c79ca372fdb5a36f8254fef083d819890122ef5dffa42414bf9f'}
+  - {seq: 14, filename: KR1e0122_014.yaml, hash: 'sha256:285f1d97f1196a0c077d4bf4ffb85981db9fae6f2795bb13816138b0224a7d6b'}
+  - {seq: 15, filename: KR1e0122_015.yaml, hash: 'sha256:3ba9a5be200e6491224b3b1d95aec36c33c28b33b83587ccf72c03d31351542b'}
+  - {seq: 16, filename: KR1e0122_016.yaml, hash: 'sha256:3fdd43216f5ca023a77794b8e716f73ad7bbf5ce075b7a779685e0bdac74f55b'}
+  - {seq: 17, filename: KR1e0122_017.yaml, hash: 'sha256:76e417515cc74cf4c562504791980de100cb41226318e83a73d601a38ca6cbc7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1e0122_001.markers.yaml, hash: 'sha256:86095a388ecde0755cb69e41069cc027f719c07f3f4505c020ce9dcf6d65dd5a'}
+  - {seq: 2, role: markers, filename: assets/KR1e0122_002.markers.yaml, hash: 'sha256:0746618f4724598ea9cedb41c9b81f7509c910df903ca2cf79fb1f51531cb4d0'}
+  - {seq: 3, role: markers, filename: assets/KR1e0122_003.markers.yaml, hash: 'sha256:f32ae48d9e3feda5c30d6189df71020fc3fa598995d1d618b6cef806251e982a'}
+  - {seq: 4, role: markers, filename: assets/KR1e0122_004.markers.yaml, hash: 'sha256:e2548e119e3a8d9cfdb7f879ef54f39a6a6cd59bca29e6974c89bb1711ede2a7'}
+  - {seq: 5, role: markers, filename: assets/KR1e0122_005.markers.yaml, hash: 'sha256:c99d9007d2753103f83ddcd4a89475864e50a150fac19a31a723fc042a690f39'}
+  - {seq: 6, role: markers, filename: assets/KR1e0122_006.markers.yaml, hash: 'sha256:f3ccf7c1c9c25e9b6ee7ddabcadd309cafb28ecae2b32232f536e564ba3054b8'}
+  - {seq: 7, role: markers, filename: assets/KR1e0122_007.markers.yaml, hash: 'sha256:749558cb95f17201ff4c5d682eb670e4f44872c08e0bce43ff342a3012efe691'}
+  - {seq: 8, role: markers, filename: assets/KR1e0122_008.markers.yaml, hash: 'sha256:5565ef0a608c496361107b895eeaca78f3740310164c431b82a0d60faa061627'}
+  - {seq: 9, role: markers, filename: assets/KR1e0122_009.markers.yaml, hash: 'sha256:38c39b3a3a13b0050f20969e8414acf32e7897059a010d7451e053490b1683a4'}
+  - {seq: 10, role: markers, filename: assets/KR1e0122_010.markers.yaml, hash: 'sha256:5ddbb0a7af9b9dcaa0e45119cf25d7706e4c9b85ce29c0e4dda007c4fc26b02a'}
+  - {seq: 11, role: markers, filename: assets/KR1e0122_011.markers.yaml, hash: 'sha256:a7e1e2d850818c5c66d663b532ba16120a45e92dbad79e15c4ac0707b2de21a2'}
+  - {seq: 12, role: markers, filename: assets/KR1e0122_012.markers.yaml, hash: 'sha256:c6ed3ffc52437f230e0673ef5c51d571c44dda8028fad540f56cce54b45d8d73'}
+  - {seq: 13, role: markers, filename: assets/KR1e0122_013.markers.yaml, hash: 'sha256:98e89931e7db32ee0646515d7dbdb8f3045bed2421cd3627ef86f19f41e13602'}
+  - {seq: 14, role: markers, filename: assets/KR1e0122_014.markers.yaml, hash: 'sha256:1fe988f9f2a3aff2df358a7ae8c02be4c66a1105093652b1c4a608fc154014d8'}
+  - {seq: 15, role: markers, filename: assets/KR1e0122_015.markers.yaml, hash: 'sha256:22cc87db6d7d91da61bacfe0c75c756c71aa7d9737bd703e246d2b540ac93b0f'}
+  - {seq: 16, role: markers, filename: assets/KR1e0122_016.markers.yaml, hash: 'sha256:98a7f94f932f4e74e00398203d1f7429cad3beef2df365fc403e047284b961ad'}
+  - {seq: 17, role: markers, filename: assets/KR1e0122_017.markers.yaml, hash: 'sha256:4be3661936414b14ed1a0644e4cad73efe2f6ce300e2bd4d030cd8fc67c8dd87'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1e0122_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 3909
+  label: 春秋繁露卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1e0122_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 2702
+  label: 春秋繁露卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1e0122_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 3551
+  label: 春秋繁露卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1e0122_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 3286
+  label: 春秋繁露卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1e0122_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 2796
+  label: 春秋繁露卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1e0122_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3599
+  label: 春秋繁露卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1e0122_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 5311
+  label: 春秋繁露卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1e0122_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 4729
+  label: 春秋繁露卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1e0122_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 2551
+  label: 春秋繁露卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR1e0122_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 3331
+  label: 春秋繁露卷十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR1e0122_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 4011
+  label: 春秋繁露卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR1e0122_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 2747
+  label: 春秋繁露卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR1e0122_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 3759
+  label: 春秋繁露卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR1e0122_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 1702
+  label: 春秋繁露卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR1e0122_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 2964
+  label: 春秋繁露卷十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR1e0122_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 4910
+  label: 春秋繁露卷十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR1e0122_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 6298
+  label: 春秋繁露卷十七
+  type: section
+  level: 1
+hash: sha256:204c5098c7297f39410d457fcaf1a5f14d56060da83318f8d89e97760c4ff552
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
