@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 87, content: 玉聲而後烹原註一作享正刑多隱親􆂅多赦封壇於左位主地法文而王其道進陰尊尊而多禮文故立嗣予孫篤世子妾不以子稱貴號昏冠之禮字子以母别眇夫妻同坐而食喪禮合葬祭禮先秬鬯婦從夫爲昭穆制爵, WYG: 欽定四庫全書經部}
   - {type: page-break, offset: 0, content: '', id: KR1e0122_WYG_000-1a, image: WYG0181/WYG0181-0697a.png}
   - {type: punctuation, offset: 5, content: (, id: KR1e0122_krp_000-bkkpn1}
+  - {type: voice, offset: 5, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR1e0122_krp_000-bkkpn2}
   - {type: punctuation, offset: 10, content: ), id: KR1e0122_krp_000-bkkpn3}
   - {type: 'kr:newline', offset: 23, content: '
@@ -29,6 +30,7 @@ markers:
   - {type: line-break, offset: 86, content: '', id: KR1e0122_SBCK_000-1a05}
   - {type: variant, offset: 88, length: 365, content: 等祿士三品制郊宮明堂内方外衡其屋習而案而他本作其衡祭器衡同作秩案秩他本作佚機玉厚六分白藻三絲衣長後袵服首原註一無首字習而垂流鸞輿卑備地周象載垂二鸞樂縣鼓用萬儛儛溢衡先烹而後用樂正刑文公原註未詳案他本公字下複衍一公字封壇於左位春秋繁露序六經道大而難知惟春秋聖人之志在焉自孔子沒莫不有傳名於傳者五家用於世纔三而止耳其後傳世學散源迷而流分蓋公羊之學後有胡母子都董仲舒治其說信勤矣嘗爲武帝置對於篇又自著書以傳于後其微言至要蓋深於春秋者也然聖人之㫖在經經之失傳傳之失學故漢諸儒多病專門之見各務高師之言至窮智畢學或不出聖人大中之道使周公孔子之志旣晦而隱焉董生之書視諸儒尤慱極閎深也本傳稱玉杯繁露清明竹林之屬今其書十卷又總名繁露其是非請伺賢者辨之太原王君家藏此書常謂仲舒之學乆欝不發將以廣之天下就予求序因書其本末云慶曆七年二月大理評事四明樓郁書, WYG: ''}
   - {type: punctuation, offset: 106, content: (, id: KR1e0122_krp_000-bkkpn4}
+  - {type: voice, offset: 106, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 107, content: /, id: KR1e0122_krp_000-bkkpn5}
   - {type: punctuation, offset: 108, content: ), id: KR1e0122_krp_000-bkkpn6}
   - {type: 'kr:newline', offset: 108, content: '
@@ -39,6 +41,7 @@ markers:
   - {type: punctuation, offset: 110, content: /, id: KR1e0122_krp_000-bkkpn8}
   - {type: punctuation, offset: 112, content: ), id: KR1e0122_krp_000-bkkpn9}
   - {type: punctuation, offset: 119, content: (, id: KR1e0122_krp_000-bkkpn10}
+  - {type: voice, offset: 119, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 122, content: /, id: KR1e0122_krp_000-bkkpn11}
   - {type: punctuation, offset: 125, content: ), id: KR1e0122_krp_000-bkkpn12}
   - {type: 'kr:newline', offset: 134, content: '
@@ -46,6 +49,7 @@ markers:
       ', id: KR1e0122_krp_000-bkkkrnewl7}
   - {type: line-break, offset: 134, content: '', id: KR1e0122_SBCK_000-1a07}
   - {type: punctuation, offset: 140, content: (, id: KR1e0122_krp_000-bkkpn13}
+  - {type: voice, offset: 140, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 143, content: /, id: KR1e0122_krp_000-bkkpn14}
   - {type: punctuation, offset: 146, content: ), id: KR1e0122_krp_000-bkkpn15}
   - {type: 'kr:newline', offset: 158, content: '
@@ -57,6 +61,7 @@ markers:
       ', id: KR1e0122_krp_000-bkkkrnewl9}
   - {type: line-break, offset: 179, content: '', id: KR1e0122_SBCK_000-1a09}
   - {type: punctuation, offset: 180, content: (, id: KR1e0122_krp_000-bkkpn16}
+  - {type: voice, offset: 180, length: 15, name: note, id: n5}
   - {type: punctuation, offset: 184, content: /, id: KR1e0122_krp_000-bkkpn17}
   - {type: punctuation, offset: 187, content: /, id: KR1e0122_krp_000-bkkpn18}
   - {type: punctuation, offset: 195, content: ), id: KR1e0122_krp_000-bkkpn19}
@@ -728,6 +733,7 @@ markers:
       ', id: KR1e0122_krp_000-bkkkrnewl111}
   - {type: line-break, offset: 575, content: '', id: KR1e0122_SBCK_000-8b02}
   - {type: punctuation, offset: 575, content: (, id: KR1e0122_krp_000-bkkpn1}
+  - {type: voice, offset: 575, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 576, content: ), id: KR1e0122_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 593, content: '
 
@@ -860,6 +866,7 @@ markers:
   - {type: indent, offset: 939, content: 　　　, id: KR1e0122_krp_000-bkkind120}
   - {type: variant, offset: 947, length: 1, content: 茲, WYG: 兹}
   - {type: punctuation, offset: 955, content: (, id: KR1e0122_krp_000-bkkpn3}
+  - {type: voice, offset: 955, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 956, content: ), id: KR1e0122_krp_000-bkkpn4}
   - {type: 'kr:newline', offset: 957, content: '
 
@@ -881,4 +888,4 @@ markers:
       ', id: KR1e0122_krp_000-bkkkrnewl137}
   - {type: variant, offset: 984, length: 0, content: '', WYG: 總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀}
   back: []
-hash: sha256:bc336be263ca3b0f87b45e50735dc6d9c8400f217773ceb74f113da88ddde6d1
+hash: sha256:35fa7b1f72fed1362245023cefd9ce02e2f3275cdb0a8d53e90ece55a33f7b11
